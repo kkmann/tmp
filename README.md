@@ -59,7 +59,7 @@ This opens the corresponding page on GitHub.com and you can simply copy the
 personal access token to your clipboard (default options are fine).
 Then call
 ```
-`gitcreds::gitcreds_set()`
+gitcreds::gitcreds_set()
 ```
 and enter your token to register it.
 

@@ -1,7 +1,7 @@
 
 #'
 #' @title
-#' Get Simulated Two Arm Means
+#' Get Simulated Two Arm Means hfkfdslfsj
 #'
 #' @description
 #' Simulates and returns a normally distributed continuous dataset for two
